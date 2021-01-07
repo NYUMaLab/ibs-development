@@ -3,9 +3,9 @@
 This is the working repository for the article *Unbiased and efficient log-likelihood estimation with inverse binomial sampling* [[1](#reference)]. The MATLAB and Python scripts in this repository allow to reproduce all the results and figures reported in the paper (see below).
 
 
-**The IBS file in this document is not actively updated.**
+**The IBS file in this document is not actively updated, it is kept here for archival purposes.**
 
-If you are interested in using IBS, please find user-friendly and fast implementations and tutorials here: https://github.com/lacerbi/ibs
+If you are interested in using IBS, and for full documentation and support, please find user-friendly and fast implementations and tutorials here: https://github.com/lacerbi/ibs
 
 ## Code
 
