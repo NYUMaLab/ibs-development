@@ -4,6 +4,7 @@ This is the working repository for the article *Unbiased and efficient log-likel
 
 
 **The IBS files in this document are not actively updated**
+
 If you are interested in using IBS, please find user-friendly and fast implementations and tutorials here: https://github.com/lacerbi/ibs
 
 ## Code
